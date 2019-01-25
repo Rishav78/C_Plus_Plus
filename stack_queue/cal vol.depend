@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534341650 source:e:\c++ programs\cal vol\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<stdio.h>
+
