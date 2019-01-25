@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542258405 source:c:\users\rishav\desktop\character frequency\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+
