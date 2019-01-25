@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542531564 source:c:\users\rishav\desktop\balance parentheses\main.cpp
+	<iostream>
+	<stack>
+
