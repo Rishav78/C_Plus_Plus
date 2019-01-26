@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534999114 source:e:\c++ programs\combinations\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+
