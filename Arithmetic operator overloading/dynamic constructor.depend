@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533011644 source:e:\c++ programs\dynamic constructor\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
