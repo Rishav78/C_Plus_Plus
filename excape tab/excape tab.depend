@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535019838 source:e:\c++ programs\excape tab\main.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<vector>
+
