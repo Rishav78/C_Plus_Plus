@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534060725 source:e:\c++ programs\hamming code\main.cpp
+	<iostream>
+	<cmath>
+
