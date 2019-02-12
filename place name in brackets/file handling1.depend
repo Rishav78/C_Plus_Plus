@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542610937 source:c:\users\rishav\desktop\file handling1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<cstring>
+
+1542613977 source:e:\c++ programs\place name in brackets\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<cstring>
+
