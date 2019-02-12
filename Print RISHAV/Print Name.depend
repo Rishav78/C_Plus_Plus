@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544722356 source:c:\users\rishav\desktop\print name\main.cpp
+	<iostream>
+	<windows.h>
+
+1544722356 source:e:\c++ programs\print name\main.cpp
+	<iostream>
+	<windows.h>
+
